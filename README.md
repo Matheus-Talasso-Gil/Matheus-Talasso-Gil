@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=4B5563&fontAlignY=65&desc=Desenvolvedor+em+forma%C3%A7%C3%A3o&descSize=16&descAlignY=85&descColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=100&section=header&text=Matheus+Gil&fontSize=36&fontColor=4B5563&fontAlignY=65&desc=Desenvolvedor+em+forma%C3%A7%C3%A3o&descSize=16&descAlignY=85&descColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1p&color=%234B5563&size=48&center=true&vCenter=true&width=1200&height=100&lines=Ol%C3%A1!;Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+1p&color=%234B5563&size=38&center=true&vCenter=true&width=1000&height=80&lines=Ol%C3%A1!;Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
 </div>
 
 <div align="center">
 
-Estou no início da minha jornada na programação, aprendendo na prática e construindo coisas reais.
+Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação na prática e desenvolvendo projetos para aprimorar meus conhecimentos.
 
 </div>
 
@@ -28,16 +28,16 @@ Estou no início da minha jornada na programação, aprendendo na prática e con
 
 | Informações | Conhecimentos |
 |:---:|:---:|
-| **Nome:** Matheus Gil | **HTML:** Em aprendizado |
-| **Instituição:** SENAI | **PHP:** Em aprendizado |
-| **Área:** Desenvolvimento de Sistemas | **Banco de Dados:** Em aprendizado |
-| **Foco:** Desenvolvimento Web | **Git/GitHub:** Em aprendizado |
+| **Nome:** Matheus Gil | **HTML:** Conhecimento básico |
+| **Instituição:** SENAI | **CSS:** Conhecimento básico |
+| **Área:** Desenvolvimento de Sistemas | **PHP:** Em aprendizado |
+| **Foco:** Desenvolvimento Web | **PostgreSQL:** Em aprendizado |
 
 </div>
 
 ---
 
-### Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -52,19 +52,26 @@ Estou no início da minha jornada na programação, aprendendo na prática e con
 
 ---
 
-### O que estou estudando
+## O que estou estudando
 
 - Desenvolvimento Web
+- HTML e CSS
 - PHP
 - Banco de Dados
+- PostgreSQL
 - Modelagem de dados
 - Git e GitHub
 - Desenvolvimento de Sistemas
-- HTML e CSS
 
 ---
 
-### Projeto em destaque
+## Git e GitHub
+
+Utilizo Git e GitHub para versionamento, organização e publicação dos meus projetos durante minha formação.
+
+---
+
+## Projeto em destaque
 
 > **SENAI — Mini Sistema**
 >
@@ -74,7 +81,7 @@ Estou no início da minha jornada na programação, aprendendo na prática e con
 
 ---
 
-### Outros projetos
+## Outros projetos
 
 > **Site SENAI**
 >
