@@ -45,6 +45,12 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 <img src="https://img.shields.io/badge/GitHub-Matheus_Gil-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Matheus_Gil-181717?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,6 +60,17 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 </div>
 
 ---
+
+### Conhecimentos
+
+- HTML
+- CSS
+- PHP
+- PostgreSQL
+- Git
+- GitHub
+- Modelagem de Banco de Dados
+- Desenvolvimento Web
 
 ## O que estou estudando
 
