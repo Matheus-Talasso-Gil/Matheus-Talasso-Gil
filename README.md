@@ -42,7 +42,12 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/randamdam">
+
+<img src="https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
