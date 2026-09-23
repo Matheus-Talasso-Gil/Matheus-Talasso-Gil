@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23FFFFFF&size=48&center=true&vCenter=true&width=1200&height=100&lines=Ol%C3%A1!;+Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Matheus+Gil;Estudante+do+SENAI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23CCCCCC&size=48&center=true&vCenter=true&width=1200&height=100&lines=Ol%C3%A1!;Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Matheus+Gil;Estudante+do+SENAI;Desenvolvedor+em+forma%C3%A7%C3%A3o" alt="Typing SVG">
 </div>
 
 <div align="center">
 
-Estou no início da minha jornada na programação, aprendendo na prática e desenvolvendo meus primeiros projetos durante minha formação no SENAI.
+Estou no início da minha jornada na programação, aprendendo na prática e construindo coisas reais.
 
 </div>
 
