@@ -41,7 +41,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 
 <div align="center">
 
-<a href="#">
+<a href="https://github.com/Matheus-Talasso-Gil">
 <img src="https://img.shields.io/badge/GitHub-Matheus_Gil-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
