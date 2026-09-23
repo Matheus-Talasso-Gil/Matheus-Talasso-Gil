@@ -93,6 +93,13 @@ Utilizo Git e GitHub para versionamento, organização e publicação dos meus p
 
 ---
 
+## Meu GitHub
+
+**Matheus Gil**<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=flat-square&logo=github)](https://github.com/randamdamdam)
+
+---
+
 <div align="center">
 
 ### Obrigado por visitar meu GitHub!
