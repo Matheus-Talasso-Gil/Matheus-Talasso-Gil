@@ -1,8 +1,8 @@
-# 💻 Meu GitHub SENAI
+#  Meu GitHub SENAI
 
-🎓 Repositório dedicado aos meus estudos e projetos desenvolvidos no SENAI.
+ Repositório dedicado aos meus estudos e projetos desenvolvidos no SENAI.
 
-🚀 **Aprendendo e praticando:**
+ **Aprendendo e praticando:**
 
 * HTML e CSS
 * PHP
@@ -10,7 +10,7 @@
 * Git e GitHub
 * Desenvolvimento de Sistemas
 
-🐍 Acompanhe minha atividade no GitHub!
+ Acompanhe minha atividade no GitHub!
 
 <div align="center">
 <picture>
