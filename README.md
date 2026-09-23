@@ -1,7 +1,5 @@
 <div align="center">
-  <div
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=60A5FA&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
-</div>type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=60A5FA&fontAlignY=65&desc=Desenvolvedor+em+forma%C3%A7%C3%A3o&descSize=16&descAlignY=85&descColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,8 +10,8 @@
   </picture>
 </div>
 
-<div align="center" style="display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23FFFFFF&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+é+Matheus+Gil;Estudante+do+SENAI" alt="Typing SVG">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23FFFFFF&size=48&center=true&vCenter=true&width=1200&height=100&lines=Ol%C3%A1!;+Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Matheus+Gil;Estudante+do+SENAI" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -24,11 +22,11 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
 <div align="center">
 
-|  **Informações** |  **Conhecimentos** |
+| Informações | Conhecimentos |
 |:---:|:---:|
 | **Nome:** Matheus Gil | **HTML:** Em aprendizado |
 | **Instituição:** SENAI | **PHP:** Em aprendizado |
@@ -36,38 +34,37 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 | **Foco:** Desenvolvimento Web | **Git/GitHub:** Em aprendizado |
 
 </div>
-```
 
 ---
 
-###  Tecnologias
+### Tecnologias
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-###  O que estou estudando
+### O que estou estudando
 
-*  Desenvolvimento Web
-*  PHP
-*  Banco de Dados
-*  Modelagem de dados
-*  Git e GitHub
-*  Desenvolvimento de Sistemas
-*  HTML e CSS
+- Desenvolvimento Web
+- PHP
+- Banco de Dados
+- Modelagem de dados
+- Git e GitHub
+- Desenvolvimento de Sistemas
+- HTML e CSS
 
 ---
 
-###  Projeto em destaque
+### Projeto em destaque
 
 > **SENAI — Mini Sistema**
 >
@@ -77,7 +74,7 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 
 ---
 
-###  Outros projetos
+### Outros projetos
 
 > **Site SENAI**
 >
@@ -91,6 +88,6 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 
 <div align="center">
 
-###  Obrigado por visitar meu GitHub!
+### Obrigado por visitar meu GitHub!
 
 </div>
