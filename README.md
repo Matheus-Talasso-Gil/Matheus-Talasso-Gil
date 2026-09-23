@@ -24,16 +24,16 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 
 ##  Sobre mim
 
-```python
-Matheus = {
-    "Nome": "Matheus Gil",
-    "Instituição": "SENAI",
-    "Área": "Desenvolvimento de Sistemas",
-    "HTML": "Em aprendizado",
-    "PHP": "Em aprendizado",
-    "Banco de Dados": "Em aprendizado",
-    "Git/GitHub": "Em aprendizado"
-}
+<div align="center">
+
+|  **Informações** |  **Conhecimentos** |
+|:---:|:---:|
+| **Nome:** Matheus Gil | **HTML:** Em aprendizado |
+| **Instituição:** SENAI | **PHP:** Em aprendizado |
+| **Área:** Desenvolvimento de Sistemas | **Banco de Dados:** Em aprendizado |
+| **Foco:** Desenvolvimento Web | **Git/GitHub:** Em aprendizado |
+
+</div>
 ```
 
 ---
