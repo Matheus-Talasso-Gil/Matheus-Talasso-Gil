@@ -32,7 +32,6 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 | **Instituição:** SENAI | **CSS:** Conhecimento básico |
 | **Área:** Desenvolvimento de Sistemas | **PHP:** Em aprendizado |
 | **Foco:** Desenvolvimento Web | **PostgreSQL:** Em aprendizado |
-| **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=flat-square&logo=github)](https://github.com/randamdam) | **Git/GitHub:** Em aprendizado |
 
 </div>
 
@@ -42,10 +41,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 
 <div align="center">
 
-<a href="https://github.com/randamdam">
-
-<img src="https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-Matheus_Gil-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
