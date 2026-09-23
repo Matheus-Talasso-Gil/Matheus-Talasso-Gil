@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=dbeafe" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" style="display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23CCCCCC&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+é+Matheus+Gil;Estudante+do+SENAI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%23FFFFFF&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem-vindo+ao+meu+GitHub!;Meu+nome+é+Matheus+Gil;Estudante+do+SENAI" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -22,9 +22,7 @@ Estou no início da minha jornada na programação, aprendendo na prática e des
 
 ---
 
-<div align="center">
-
-###  Sobre mim
+##  Sobre mim
 
 ```python
 Matheus = {
@@ -38,20 +36,18 @@ Matheus = {
 }
 ```
 
-</div>
-
 ---
 
 ###  Tecnologias
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 </div>
 
@@ -79,3 +75,20 @@ Matheus = {
 
 ---
 
+###  Outros projetos
+
+> **Site SENAI**
+>
+> Site desenvolvido utilizando HTML e CSS, com páginas de início, cursos e contatos.
+
+> **Projetos de Banco de Dados**
+>
+> Exercícios envolvendo modelagem de dados, MER, DER, relacionamentos entre tabelas e PostgreSQL.
+
+---
+
+<div align="center">
+
+###  Obrigado por visitar meu GitHub!
+
+</div>
