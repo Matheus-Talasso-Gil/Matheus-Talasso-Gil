@@ -32,6 +32,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 | **Instituição:** SENAI | **CSS:** Conhecimento básico |
 | **Área:** Desenvolvimento de Sistemas | **PHP:** Em aprendizado |
 | **Foco:** Desenvolvimento Web | **PostgreSQL:** Em aprendizado |
+| **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=flat-square&logo=github)](https://github.com/randamdam) | **Git/GitHub:** Em aprendizado |
 
 </div>
 
@@ -90,13 +91,6 @@ Utilizo Git e GitHub para versionamento, organização e publicação dos meus p
 > **Projetos de Banco de Dados**
 >
 > Exercícios envolvendo modelagem de dados, MER, DER, relacionamentos entre tabelas e PostgreSQL.
-
----
-
-## Meu GitHub
-
-**Matheus Gil**<br>
-[![GitHub](https://img.shields.io/badge/GitHub-Matheus--Gil-181717?style=flat-square&logo=github)](https://github.com/randamdamdam)
 
 ---
 
