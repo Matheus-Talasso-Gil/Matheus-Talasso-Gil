@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
+  <div
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=60A5FA&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
+</div>type=waving&color=111827&height=120&section=header&text=Matheus+Gil&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Desenvolvedor+em+formação&descSize=16&descAlignY=85&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
