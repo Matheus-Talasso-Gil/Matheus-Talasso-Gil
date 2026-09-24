@@ -45,7 +45,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 <img src="https://img.shields.io/badge/GitHub-Matheus_Gil-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/matheus-gil-8571653b5/">
 <img src="https://img.shields.io/badge/LinkedIn-Matheus_Gil-181717?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
