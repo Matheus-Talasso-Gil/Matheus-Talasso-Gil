@@ -32,6 +32,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 | **Instituição:** SENAI | **CSS:** Conhecimento básico |
 | **Área:** Desenvolvimento de Sistemas | **PHP:** Em aprendizado |
 | **Foco:** Desenvolvimento Web | **PostgreSQL:** Em aprendizado |
+| | **Python:** Conhecimento básico |
+| | **Java:** Conhecimento básico |
 
 </div>
 
@@ -56,6 +58,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
@@ -67,6 +71,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 - CSS
 - PHP
 - PostgreSQL
+- Python — Conhecimento básico
+- Java — Conhecimento básico
 - Git
 - GitHub
 - Modelagem de Banco de Dados
@@ -79,6 +85,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 - PHP
 - Banco de Dados
 - PostgreSQL
+- Python
+- Java
 - Modelagem de dados
 - Git e GitHub
 - Desenvolvimento de Sistemas
