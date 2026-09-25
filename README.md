@@ -32,7 +32,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI, aprendendo programação 
 | **Instituição:** SENAI | **CSS:** Conhecimento básico |
 | **Área:** Desenvolvimento de Sistemas | **PHP:** Em aprendizado |
 | **Foco:** Desenvolvimento Web | **PostgreSQL:** Em aprendizado |
-| | **Python:** Conhecimento básico |**Java:** Conhecimento básico |
+| **Python:** Conhecimento básico | **Java:** Conhecimento básico |
 
 </div>
 
